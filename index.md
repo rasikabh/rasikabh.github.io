@@ -47,13 +47,19 @@ June 2014 - Aug 2015
 Used MATLAB and Arduino to analyze light signals transmitted through finger. Worked with researchers and fellows at UW Medical Center Dept. of Radiology.
 
 ## Education
+#### New York University
+Sept 2017 - present  
+PhD in Computer Science
 #### University of Washington, Seattle, WA
 Sept 2013 - June 2017  
 BS in Applied & Computational Math Sciences (Discrete Math & Algorithms)  
 BS in Statistics from the University of Washington, Seattle, WA.
-#### New York University
-Sept 2017 - present  
-PhD in Computer Science
+#### Forest Ridge School of the Sacred Heart, Bellevue, WA
+Sept 2005 - June 2013
+International Baccalaureate Diploma
+Women’s Technology Program at MIT June-July 2012
+Excellence in Mathematics: Top mathematician in grade level (Grades 9, 11, 12)
+Spirit Award: Most spirited and friendly person in high school (Grade 12)
 
 ## Society of Women Engineers
 #### Grad: Social media coordinator for GradSWE.
