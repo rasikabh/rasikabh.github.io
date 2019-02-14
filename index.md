@@ -47,9 +47,12 @@ June 2014 - Aug 2015
 Used MATLAB and Arduino to analyze light signals transmitted through finger. Worked with researchers and fellows at UW Medical Center Dept. of Radiology.
 
 ## Society of Women Engineers
-#### Grad: Social media coordinator for GradSWE. [Check out GradSWE!](http://gradswe.swe.org/joinfollowcontact-us.html)
+#### Grad: Social media coordinator for GradSWE.
+[Check out GradSWE!](http://gradswe.swe.org/joinfollowcontact-us.html)
 #### Sophomore year undergrad: Director of Evening with Industry for University of Washington section
+800-member career fair and 200-member banquet
 #### Junior/Senior year undergrad: Treasurer for University of Washington section
+Section membership grew tenfold, $50,000 budget (something to be proud of)
 
 ## Education:
 #### University of Washington, Seattle, WA
