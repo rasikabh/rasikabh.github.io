@@ -9,8 +9,8 @@ I am a PhD student in computer science at NYU working with Professor [Damon McCo
 I am interested in cybercrime, natural language processing, machine learning, and teaching.
 
 ## Contact:
-[My NYU email](rasikabh@nyu.edu)\
-[My personal email](rasikabh@gmail.com)\
+My NYU email: rasikabh [at] nyu [dot] edu\
+My personal email: rasikabh [at] gmail [dot] com\
 [LinkedIn](https://www.linkedin.com/in/rasika-bhalerao-8a827188)\
 [Resume](https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing)
 
