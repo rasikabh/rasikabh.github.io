@@ -53,7 +53,7 @@ PhD in Computer Science
 #### University of Washington, Seattle, WA
 Sept 2013 - June 2017  
 BS in Applied & Computational Math Sciences (Discrete Math & Algorithms)  
-BS in Statistics from the University of Washington, Seattle, WA
+BS in Statistics
 #### Forest Ridge School of the Sacred Heart, Bellevue, WA
 Sept 2005 - June 2013  
 International Baccalaureate Diploma  
