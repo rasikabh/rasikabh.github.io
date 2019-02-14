@@ -55,10 +55,10 @@ Sept 2013 - June 2017
 BS in Applied & Computational Math Sciences (Discrete Math & Algorithms)  
 BS in Statistics from the University of Washington, Seattle, WA.
 #### Forest Ridge School of the Sacred Heart, Bellevue, WA
-Sept 2005 - June 2013
-International Baccalaureate Diploma
-Women’s Technology Program at MIT June-July 2012
-Excellence in Mathematics: Top mathematician in grade level (Grades 9, 11, 12)
+Sept 2005 - June 2013  
+International Baccalaureate Diploma  
+Women’s Technology Program at MIT June-July 2012  
+Excellence in Mathematics: Top mathematician in grade level (Grades 9, 11, 12)  
 Spirit Award: Most spirited and friendly person in high school (Grade 12)
 
 ## Society of Women Engineers
