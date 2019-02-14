@@ -3,9 +3,8 @@ title: Rasika Bhalerao
 layout: home
 ---
 
-<a href="url"><img src="https://github.com/rasikabh/rasikabh.github.io/blob/master/bhalerao.jpg" align="left" height="48" ></a>
-
 # Rasika Bhalerao
+<a href="url"><img src="https://github.com/rasikabh/rasikabh.github.io/blob/master/bhalerao.jpg" align="right" height="250" ></a>
 
 I am a PhD student in computer science at NYU working with Professor [Damon McCoy](http://damonmccoy.com). 
 I am interested in cybercrime, natural language processing, machine learning, and teaching.
