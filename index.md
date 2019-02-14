@@ -14,7 +14,7 @@ I am interested in cybercrime, natural language processing, machine learning, an
 NYU email: rasikabh [at] nyu [dot] edu  
 Personal email: rasikabh [at] gmail [dot] com  
 [LinkedIn page](https://www.linkedin.com/in/rasika-bhalerao-8a827188)  
-[Resume](https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing)      
+[Resume](https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing)
 
 ## Teaching:
 #### Lecturer for Artificial Intelligence course at NYU (CS-GY 6613)
