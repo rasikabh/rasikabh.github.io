@@ -46,7 +46,7 @@ Developed an algorithm for processing hyperspectral imagery
 June 2014 - Aug 2015  
 Used MATLAB and Arduino to analyze light signals transmitted through finger. Worked with researchers and fellows at UW Medical Center Dept. of Radiology.
 
-## Education:
+## Education
 #### University of Washington, Seattle, WA
 Sept 2013 - June 2017  
 BS in Applied & Computational Math Sciences (Discrete Math & Algorithms)  
