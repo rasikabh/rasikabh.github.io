@@ -3,7 +3,7 @@ title: Rasika Bhalerao
 layout: home
 ---
 
-![Rasika Bhalerao](https://github.com/rasikabh/rasikabh.github.io/bhalerao.jpg "Rasika Bhalerao")
+![Rasika Bhalerao](https://github.com/rasikabh/rasikabh.github.io/blob/master/bhalerao.jpg "Rasika Bhalerao")
 
 # Rasika Bhalerao
 
