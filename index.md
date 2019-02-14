@@ -31,7 +31,7 @@ Jan 2015 - June 2017
 9 quarters. Taught weekly discussion sections, held office hours, graded assignments
 
 ## Research
-#### Research and Development intern at Flashpoint Intel, New York, NY
+#### Research and Development Intern at Flashpoint Intel, New York, NY
 June 2018 - Dec 2018  
 Conducted classified NLP, statistics, and security-related research projects and developed tools for exploration of the deep & dark web
 #### Research assistant at International Computer Science Institute, Berkeley, CA
