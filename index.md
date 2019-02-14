@@ -3,7 +3,7 @@ title: Rasika Bhalerao
 layout: home
 ---
 
-<a href="url"><img src="https://github.com/rasikabh/rasikabh.github.io/blob/master/bhalerao.jpg" align="left" height="300" ></a>
+<a href="url"><img src="https://github.com/rasikabh/rasikabh.github.io/blob/master/bhalerao.jpg?raw=true" align="left" height="300" ></a>
 
 # Rasika Bhalerao
 
