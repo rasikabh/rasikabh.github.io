@@ -53,7 +53,7 @@ PhD in Computer Science
 #### University of Washington, Seattle, WA
 Sept 2013 - June 2017  
 BS in Applied & Computational Math Sciences (Discrete Math & Algorithms)  
-BS in Statistics from the University of Washington, Seattle, WA.
+BS in Statistics from the University of Washington, Seattle, WA
 #### Forest Ridge School of the Sacred Heart, Bellevue, WA
 Sept 2005 - June 2013  
 International Baccalaureate Diploma  
@@ -62,7 +62,7 @@ Excellence in Mathematics: Top mathematician in grade level (Grades 9, 11, 12)
 Spirit Award: Most spirited and friendly person in high school (Grade 12)
 
 ## Society of Women Engineers
-#### Grad: Social media coordinator for GradSWE.
+#### Grad: Social media coordinator for GradSWE
 [Check out GradSWE!](http://gradswe.swe.org/joinfollowcontact-us.html)
 #### Sophomore year undergrad: Director of Evening with Industry for University of Washington section
 800-member career fair and 200-member banquet
