@@ -3,6 +3,8 @@ title: Rasika Bhalerao
 layout: home
 ---
 
+![alt text](https://github.com/rasikabh/rasikabh.github.io/bhalerao.jpg "Rasika Bhalerao")
+
 # Rasika Bhalerao
 
 I am a PhD student in computer science at NYU working with Professor [Damon McCoy](http://damonmccoy.com). 
