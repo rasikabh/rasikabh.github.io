@@ -35,6 +35,7 @@ Jan 2015 - June 2017
 ## Research
 #### Tech Research Intern at Spotify, Boston, MA
 June 2019 - August 2019
+
 Research project for Language in Learning Technologies lab to filter podcast content quality
 #### Research and Development Intern at Flashpoint Intel, New York, NY
 June 2018 - Dec 2018  
