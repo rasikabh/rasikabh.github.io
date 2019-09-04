@@ -62,7 +62,7 @@ Section membership grew tenfold, $50,000 budget
 800-member career fair and 200-member banquet (something to be proud of)
 
 ## Other Service
-#### [CSAW '19 Applied Research Competition] (https://csaw.engineering.nyu.edu/research) Co-Chair
+#### [CSAW '19 Applied Research Competition](https://csaw.engineering.nyu.edu/research) Co-Chair
 
 ## Education
 #### New York University
