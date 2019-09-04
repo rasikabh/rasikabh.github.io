@@ -56,9 +56,9 @@ Used MATLAB and Arduino to analyze light signals transmitted through finger. Wor
 #### FY20: Communications coordinator for GradSWE
 #### FY19: Social media coordinator for GradSWE
 [Check out GradSWE!](http://gradswe.swe.org/joinfollowcontact-us.html)
-#### FY17 (Junior/Senior year undergrad): Treasurer for University of Washington section
+#### FY16/FY17 (Junior/Senior year undergrad): Treasurer for University of Washington section
 Section membership grew tenfold, $50,000 budget
-#### FY18 (Sophomore year undergrad): Director of Evening with Industry for University of Washington section
+#### FY15 (Sophomore year undergrad): Director of Evening with Industry for University of Washington section
 800-member career fair and 200-member banquet (something to be proud of)
 
 ## Other Service
