@@ -46,11 +46,13 @@ Conducted classified NLP, statistics, and security-related research projects and
 #### Research assistant at International Computer Science Institute, Berkeley, CA
 June 2018 - Sept 2017  
 Machine learning, natural language processing, and security research analyzing cybercrime forums to identify illegal products 
+
 [Resulting 2019 IEEE eCrime publication](https://ieeexplore.ieee.org/document/9037582)
 
 #### Applied Math research (REU) at UC Los Angeles
 June 2016 - Aug 2016  
 Developed an algorithm for processing hyperspectral imagery  
+
 [Resulting 2017 IEEE publication](https://ieeexplore.ieee.org/document/7953347)
 
 #### Research intern at University of Washington Image Research Laboratory
