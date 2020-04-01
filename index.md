@@ -17,6 +17,9 @@ Personal email: rasikabh [at] gmail [dot] com
 [Resume](https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing)
 
 ## Teaching
+#### Co-Instructor for Network Security course at NYU (Online)
+Spring 2020 (Jan 2020 - May 2020)
+Co-instructor for online Network Security course for MS in Cybersecurity Risk and Strategy (for Professionals).
 #### Co-Instructor for Security Analytics course at NYU (CS-GY 9223 / CS-UY 3943)
 Fall 2019 (Sept 2019 - Dec 2019)
 Co-instructor for second iteration of course on security analytics with Prof. Damon McCoy. Planned and gave several lectures, oversaw TA, etc.
@@ -42,13 +45,14 @@ June 2018 - Dec 2018
 Conducted classified NLP, statistics, and security-related research projects and developed tools for exploration of the deep & dark web
 #### Research assistant at International Computer Science Institute, Berkeley, CA
 June 2018 - Sept 2017  
-Machine learning, natural language processing, and security research analyzing underground forums to identify illegal products 
+Machine learning, natural language processing, and security research analyzing cybercrime forums to identify illegal products 
+[Resulting 2019 IEEE eCrime publication](https://ieeexplore.ieee.org/document/9037582)
 
-[Resulting publication](https://arxiv.org/abs/1812.00381)
 #### Applied Math research (REU) at UC Los Angeles
 June 2016 - Aug 2016  
 Developed an algorithm for processing hyperspectral imagery  
 [Resulting 2017 IEEE publication](https://ieeexplore.ieee.org/document/7953347)
+
 #### Research intern at University of Washington Image Research Laboratory
 June 2014 - Aug 2015  
 Used MATLAB and Arduino to analyze light signals transmitted through finger. Worked with researchers and fellows at UW Medical Center Dept. of Radiology.
@@ -56,7 +60,7 @@ Used MATLAB and Arduino to analyze light signals transmitted through finger. Wor
 ## Society of Women Engineers
 #### FY20: Communications coordinator for GradSWE
 #### FY19: Social media coordinator for GradSWE
-[Check out GradSWE!](http://gradswe.swe.org/joinfollowcontact-us.html)
+[Check out GradSWE!](http://gradswe.swe.org)
 #### FY16/FY17 (Junior/Senior year undergrad): Treasurer for University of Washington section
 Section membership grew tenfold, $50,000 budget
 #### FY15 (Sophomore year undergrad): Director of Evening with Industry for University of Washington section
