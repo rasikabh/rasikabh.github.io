@@ -13,8 +13,10 @@ I am interested in cybercrime, natural language processing, machine learning, an
 ## Contact
 NYU email: rasikabh [at] nyu [dot] edu  
 Personal email: rasikabh [at] gmail [dot] com  
-[LinkedIn page](https://www.linkedin.com/in/rasika-bhalerao-8a827188)  
+[LinkedIn page](https://www.linkedin.com/in/rasika-bhalerao-8a827188)
+[CV](https://drive.google.com/file/d/1QaT7_kRcyo0M1aJdTwpL1eJ_Xk1gkZku/view?usp=sharing)
 [Resume](https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing)
+[Twitter](https://twitter.com/rasikabh)
 
 ## Teaching
 #### Co-Instructor for Network Security course at NYU (Online)
