@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://rasikabh.github.io"><img src="https://github.com/rasikabh/rasikabh.github.io/blob/master/bhalerao.jpg?raw=true" align="right" height="400" ></a>
+<a href="https://rasikabh.github.io"><img src="https://github.com/rasikabh/rasikabh.github.io/blob/master/bhalerao.jpg?raw=true" align="right" height="100" ></a>
 
 # Rasika Bhalerao
 
