@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rasikabh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rasikabh.github.io
+  * I am rasikabh (https://keybase.io/rasikabh) on keybase.
+  * I have a public key ASB0ppn_ivgaKRojk0OQYFOBqO1MONL3d1mUARgd_CGzYgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012074a699ff8af81a291a23934390605381a8ed4c38d2f777599401181dfc21b3620a",
+      "host": "keybase.io",
+      "kid": "012074a699ff8af81a291a23934390605381a8ed4c38d2f777599401181dfc21b3620a",
+      "uid": "664506d8195a282089f87a5f35cd1c19",
+      "username": "rasikabh"
+    },
+    "merkle_root": {
+      "ctime": 1588798460,
+      "hash": "2571480be7eab73a3047399fc1f6de9c28e754046fa172fa8f382cd3d3c4106e6f47fa7b37c82a0912186b4c608702667e0d67fa38caa081d511a9b774e53b38",
+      "hash_meta": "50be53ec3d60eed555f9036d9a4b2418ebca4a005f6158bb7e3108e9071813bd",
+      "seqno": 16183179
+    },
+    "service": {
+      "entropy": "/aa8qyu3KbcoF/CY4FmomT1e",
+      "hostname": "rasikabh.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1588798504,
+  "expire_in": 504576000,
+  "prev": "7e65bcbd858b1d5aa8bab7c176ebcaf31a431a4617311d75c2285bc998927b42",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdKaZ/4r4GikaI5NDkGBTgajtTDjS93dZlAEYHfwhs2IKp3BheWxvYWTESpcCDcQgfmW8vYWLHVqourfBduvK8xpDGkYXMR11wihbyZiSe0LEIGZlvzwQVIOWNNkATLk4MMI2psAgS2YiZjuN8mu8kzdwAgHCo3NpZ8RAYPdu4FSLCLihE+okffzF0+6Fb4A0D3C50s1vHi4g23ms+O/lIVPqx/dyubCL7n/VTjq1/PFQSC1nH3rShdq0BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAT3MMEOe393j7l9kSBXdVs0YRZxYWvDd3iHnTDryrYto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rasikabh
+
+==================================================================
