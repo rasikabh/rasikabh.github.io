@@ -8,20 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://rasikabh.github.io"><img src="https://github.com/rasikabh/rasikabh.github.io/blob/master/bhalerao.jpg?raw=true" align="right" height="100" ></a>
-
 # Rasika Bhalerao
 
 I am a PhD student in computer science at NYU working with Professor [Damon McCoy](http://damonmccoy.com). 
 I am interested in cybercrime, natural language processing, machine learning, and teaching.
 
-## Contact
-NYU email: rasikabh [at] nyu [dot] edu  
-Personal email: rasikabh [at] gmail [dot] com  
 [CV](https://drive.google.com/file/d/1QaT7_kRcyo0M1aJdTwpL1eJ_Xk1gkZku/view?usp=sharing)  
 [Resume](https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing)  
-[LinkedIn](https://www.linkedin.com/in/rasika-bhalerao-8a827188)  
-[Twitter](https://twitter.com/rasikabh)
+
+<a href="https://rasikabh.github.io"><img src="https://github.com/rasikabh/rasikabh.github.io/blob/master/bhalerao.jpg?raw=true" align="right" height="100" ></a>
 
 ## Teaching
 #### Co-Instructor for Network Security course at NYU (Online)
