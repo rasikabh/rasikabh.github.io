@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Research Positions and Service"
+permalink: /positions/
+author_profile: true
+---
+
+{% include base_path %}
+
 ### Tech Research Intern at Spotify, Boston, MA
 ####June 2019 - August 2019
 ####Research project for Language in Learning Technologies lab to filter podcast content quality
@@ -27,3 +36,6 @@
 #####Section membership grew tenfold, $50,000 budget
 #### FY15 (Sophomore year undergrad): Director of Evening with Industry for University of Washington section
 #####800-member career fair and 200-member banquet (something to be proud of)
+
+### Other
+#### Jan 2020 - present: Mentoring high school student on phishing research project
