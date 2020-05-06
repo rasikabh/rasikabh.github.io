@@ -15,3 +15,5 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endfor %}
 
 {% capture written_label %}'None'{% endcapture %}
+
+[Keybase Proof](https://rasikabh.github.io/keybase.txt)
