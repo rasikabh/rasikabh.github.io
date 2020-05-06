@@ -11,4 +11,4 @@ redirect_from:
 I am a PhD student in computer science at NYU working with Professor [Damon McCoy](http://damonmccoy.com). 
 I am interested in cybercrime, natural language processing, machine learning, and teaching.
 
-![](./pic/pic1s.png =250x)
+<img src="bhalerao.jpg" width="200">
