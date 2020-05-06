@@ -83,11 +83,12 @@ author:
   name             : "Rasika Bhalerao"
   avatar           : "bhalerao.jpg"
   bio              : "PhD student in computer science at NYU working with Professor Damon McCoy. Interested in cybercrime, natural language processing, machine learning, and teaching."
-  location         : "New York University"
+  location         :
   employer         : "New York University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
   email            : "rasikabh@gmail.com"
+  email            : "rasikabh@nyu.edu"
   researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
   uri              :
   bitbucket        :
