@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-**Rasika Bhalerao**, Maxwell Aliapoulios, Ilia Shumailov, Sadia Afroz and Damon McCoy, “Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains,” 2019 APWG Symposium on Electronic Crime Research (eCrime), Pittsburgh, PA, USA, 2019, pp. 1-16, doi: 10.1109/eCrime47957.2019.9037582. **Honorable mention for best paper award**
+**Rasika Bhalerao**, Maxwell Aliapoulios, Ilia Shumailov, Sadia Afroz and Damon McCoy, “[Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains](http://damonmccoy.com/papers/ecrime2019.pdf),” 2019 APWG Symposium on Electronic Crime Research (eCrime), Pittsburgh, PA, USA, 2019, pp. 1-16, doi: 10.1109/eCrime47957.2019.9037582. **Honorable mention for best paper award**
 
-Victoria Chayes, Kevin Miller, **Rasika Bhalerao**, Jiajie Luo, Wei Zhu, Andrea L. Bertozzi, Wenzhi Liao, Stanley Osher, “Pre-processing and classification of hyperspectral imagery via selective inpainting,” 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), New Orleans, LA, 2017, pp. 6195-6199, doi: 10.1109/ICASSP.2017.7953347.
+Victoria Chayes, Kevin Miller, **Rasika Bhalerao**, Jiajie Luo, Wei Zhu, Andrea L. Bertozzi, Wenzhi Liao, Stanley Osher, “[Pre-processing and classification of hyperspectral imagery via selective inpainting](https://www.math.ucla.edu/~bertozzi/papers/ICASSP2017-final.pdf),” 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), New Orleans, LA, 2017, pp. 6195-6199, doi: 10.1109/ICASSP.2017.7953347.
