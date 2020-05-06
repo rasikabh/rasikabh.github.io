@@ -6,5 +6,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Resume"
+    url: /resume/
+    
   - title: "Publications"
     url: /publications/ 
