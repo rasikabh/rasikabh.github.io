@@ -10,6 +10,7 @@ author_profile: true
 
 ### Instructor for Natural Language Processing course at NYU Tandon (CS-GY 9223)
 #### Fall 2020 (Sept 2020 - Dec 2020)
+#### [Course Website](https://rasikabh.github.io/nlp2020)
 #### Introductory graduate course in NLP at NYU Tandon (especially for students who don't get into the course at NYU Courant or NYU CDS).
 
 ### Co-Instructor for Network Security course at NYU (Online)
