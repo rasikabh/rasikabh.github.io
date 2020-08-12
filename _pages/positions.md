@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Positions and Service"
-permalink: /positions/
+permalink: positions/
 author_profile: true
 
 ---
