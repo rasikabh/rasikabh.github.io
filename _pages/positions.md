@@ -13,7 +13,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### PhD Machine Learning Software Engineering Intern
+### PhD Machine Learning Software Engineering Intern at Facebook, Menlo Park, CA
 #### May 2020 - August 2020
 #### Project in newsfeed integrity
 <br/>
