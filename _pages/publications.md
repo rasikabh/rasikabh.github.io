@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Nikita Nangia*, Clara Vania*, **Rasika Bhalerao***, Samuel R. Bowman, “[CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133),” Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**). **[NYU Press: Researchers Spot Origins of Stereotyping in AI Language Technologies](https://www.nyu.edu/about/news-publications/news/2020/october/researchers-spot-origins-of-stereotyping-in-ai-language-technolo.html)**
+Nikita Nangia${html`*`}, Clara Vania${html`*`}, **Rasika Bhalerao${html`*`}**, Samuel R. Bowman, “[CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133),” Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**). **[NYU Press: Researchers Spot Origins of Stereotyping in AI Language Technologies](https://www.nyu.edu/about/news-publications/news/2020/october/researchers-spot-origins-of-stereotyping-in-ai-language-technolo.html)**
 
 **Rasika Bhalerao**, Maxwell Aliapoulios, Ilia Shumailov, Sadia Afroz and Damon McCoy, “[Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains](http://damonmccoy.com/papers/ecrime2019.pdf),” 2019 APWG Symposium on Electronic Crime Research (**eCrime 2019**), Pittsburgh, PA, USA, 2019, pp. 1-16, doi: 10.1109/eCrime47957.2019.9037582. **Honorable mention for best paper award**
 
