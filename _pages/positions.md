@@ -47,7 +47,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ### Society of Women Engineers
 #### FY20/21: Communications coordinator for [GradSWE](http://gradswe.swe.org)
-#### FY19: Social media coordinator for [GradSWE]((http://gradswe.swe.org))
+#### FY19: Social media coordinator for [GradSWE](http://gradswe.swe.org)
 #### FY16/FY17 (Junior/Senior year undergrad): Treasurer for University of Washington section
 ##### Section membership grew tenfold, $50,000 budget
 #### FY15 (Sophomore year undergrad): Director of Evening with Industry for University of Washington section
