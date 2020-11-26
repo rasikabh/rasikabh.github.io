@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 Nikita Nangia\*, Clara Vania\*, <b>Rasika Bhalerao\*</b>
-, Samuel R. Bowman, “[CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133),” Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing **(EMNLP 2020)**. **[NYU Press: Researchers Spot Origins of Stereotyping in AI Language Technologies](https://www.nyu.edu/about/news-publications/news/2020/october/researchers-spot-origins-of-stereotyping-in-ai-language-technolo.html)**
+, Samuel R. Bowman, “[CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154),” Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing **(EMNLP 2020)**. **[NYU Press: Researchers Spot Origins of Stereotyping in AI Language Technologies](https://www.nyu.edu/about/news-publications/news/2020/october/researchers-spot-origins-of-stereotyping-in-ai-language-technolo.html)**
 
 Maxwell Aliapoulios, Cameron Ballard, **Rasika Bhalerao**, Tobias Lauinger, Damon McCoy, "Swiped: Analyzing Ground-truth Data of a Marketplace for Stolen Debit and Credit Cards," Proceedings of the 2021 USENIX Security Symposium **(Usenix 2021)**.
 
