@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rasika Bhalerao"
 title_separator          : "-"
 name                     : &name "Rasika Bhalerao"
-description              : &description "I am a PhD student in computer science at NYU working with Professor Damon McCoy. I am interested in cybercrime, natural language processing, machine learning, and teaching."
+description              : &description "I am a PhD student in computer science at NYU working with Professor Damon McCoy. I am interested in cybercrime, natural language processing, machine learning, and teaching. She/her."
 url                      : https://rasikabh.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rasikabh/rasikabh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rasika Bhalerao"
   avatar           : "bhalerao.jpg"
-  bio              : "PhD student in computer science at NYU working with Professor Damon McCoy. Interested in cybercrime, natural language processing, machine learning, and teaching."
+  bio              : "PhD student in computer science at NYU working with Professor Damon McCoy. Interested in cybercrime, natural language processing, machine learning, and teaching. She/her"
   location         : "rasikabh@gmail.com"
   employer         : "New York University"
   pubmed           :
