@@ -64,10 +64,10 @@ h2, h3, h4, h5, h6 {margin: 0;}
 #### July 2020 - May 2021: Mentoring Sunidhi Gupta (Masters student) on makeup products machine learning research project
 
 ### Conference Committees
-#### Sept 2020: CSAW ‘21 Applied Research Competition Co-Chair
-#### April 2021: WE21 Conference Reviewer
+#### April - Nov 2021: [CSAW 2021](https://www.csaw.io/research) Applied Research Competition Co-Chair
+#### April 2021: [WE21 Conference](https://alltogether.swe.org/2020/12/now-open-we21-call-for-participation) Reviewer
 #### March 2021: ACL 2021 PC Member
 #### Jan 2021: NAACL 2021 PC Member
 #### Nov 2020: ACM FAccT 2021 (previously ACM FAT*) PC Member
-#### Sept 2020: CSAW ‘20 Applied Research Competition PC Member
-#### April - Nov 2019: CSAW ‘19 Applied Research Competition Co-Chair
+#### Sept 2020: CSAW 2020 Applied Research Competition PC Member
+#### April - Nov 2019: CSAW 2019 Applied Research Competition Co-Chair
