@@ -13,9 +13,14 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
+### PhD Machine Learning Software Engineering Intern at Facebook, Seattle, WA
+#### May 2021 - August 2021
+#### Project in dangerous content
+<br/>
+
 ### PhD Machine Learning Software Engineering Intern at Facebook, Menlo Park, CA
 #### May 2020 - August 2020
-#### Project in newsfeed integrity
+#### Project in content integrity
 <br/>
 
 ### Tech Research Intern at Spotify, Boston, MA
@@ -54,5 +59,15 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ##### 800-member career fair and 200-member banquet (something to be proud of)
 <br/>
 
-### Other
-#### Jan 2020 - present: Mentoring a high school student on phishing research project
+### Mentoring Students
+#### Jan 2020 - June 2021: Mentoring Ethan Friedman (high school student) on phishing research project
+#### July 2020 - May 2021: Mentoring Sunidhi Gupta (Masters student) on makeup products machine learning research project
+
+### Conference Committees
+#### Sept 2020: CSAW ‘21 Applied Research Competition Co-Chair
+#### April 2021: WE21 Conference Reviewer
+#### March 2021: ACL 2021 PC Member
+#### Jan 2021: NAACL 2021 PC Member
+#### Nov 2020: ACM FAccT 2021 (previously ACM FAT*) PC Member
+#### Sept 2020: CSAW ‘20 Applied Research Competition PC Member
+#### April - Nov 2019: CSAW ‘19 Applied Research Competition Co-Chair
