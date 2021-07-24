@@ -13,6 +13,11 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
+### Lecturer for Applied Machine Learning course at UC Berkeley
+#### Fall 2021 (Aug 2021 - Dec 2021)
+#### Applied Machine Learning course at UC Berkeley School of Information
+<br/>
+
 ### Instructor for Practical Natural Language Processing course at NYU Tandon (CS-GY 9223)
 #### Fall 2020 (Sept 2020 - Dec 2020)
 #### [Course Website](https://rasikabh.github.io/nlp2020)
