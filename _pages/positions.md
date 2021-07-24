@@ -62,6 +62,8 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ### Mentoring Students
 #### Jan 2020 - June 2021: Mentoring Ethan Friedman (high school student) on phishing research project
 #### July 2020 - May 2021: Mentoring Sunidhi Gupta (Masters student) on makeup products machine learning research project
+#### April 2021 - present: Mentoring Gabriela Pinto (Undergraduate / Masters student) through the SWE Mentoring program
+#### April 2021 - present: Mentoring Serena Yu (Undergraduate / Masters student) through the SWE Mentoring program
 <br/>
 
 ### Conference Committees
