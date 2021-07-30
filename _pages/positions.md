@@ -67,6 +67,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>
 
 ### Conference Committees
+#### Aug 2021: [CSCW 2022](https://cscw.acm.org/2022/index.html) PC Member
 #### April - Nov 2021: [CSAW 2021](https://www.csaw.io/research) Applied Research Competition Co-Chair
 #### April 2021: [WE21 Conference](https://alltogether.swe.org/2020/12/now-open-we21-call-for-participation) Reviewer
 #### March 2021: ACL 2021 PC Member
