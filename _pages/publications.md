@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Rasika Bhalerao**, Nora McDonald, Hanna Barakat, Vaughn Hamilton, Damon McCoy*, and Elissa Redmiles*,
+**Rasika Bhalerao**, Nora McDonald, Hanna Barakat, Vaughn Hamilton, Damon McCoy\*, and Elissa Redmiles\*,
 "Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach," Proceedings of the ACM Conference on
 Computer-Supported Cooperative Work and Social Computing **(CSCW 2022)**
 
