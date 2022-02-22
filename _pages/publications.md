@@ -12,11 +12,11 @@ author_profile: true
 {% include base_path %}
 
 **Rasika Bhalerao**, Nora McDonald, Hanna Barakat, Vaughn Hamilton, Damon McCoy\*, and Elissa Redmiles\*,
-"Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach," Proceedings of the ACM Conference on
+"[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://arxiv.org/abs/2202.09527)," Proceedings of the ACM Conference on
 Computer-Supported Cooperative Work and Social Computing **(CSCW 2022)**
 
-**Rasika Bhalerao**, Mohammad Al-Rubaie, Anand Bhaskar, Igor Markov, "Data-Driven Mitigation of
-Adversarial Text Perturbation," The AAAI-22 Workshop on Artificial Intelligence for Cyber Security **(AICS
+**Rasika Bhalerao**, Mohammad Al-Rubaie, Anand Bhaskar, Igor Markov, "[Data-Driven Mitigation of
+Adversarial Text Perturbation](https://arxiv.org/abs/2202.09483)," The AAAI-22 Workshop on Artificial Intelligence for Cyber Security **(AICS
 2022)**
 
 Nikita Nangia\*, Clara Vania\*, <b>Rasika Bhalerao\*</b>
