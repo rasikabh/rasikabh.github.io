@@ -18,5 +18,5 @@ Please feel free to reach out to me to talk about teaching, ethical computing, o
 
 ## Announcements
 
-- I am excited to be an Assistant Teaching Professor at Northeastern University in the San Francisco Bay Area starting Fall 2022!
+<!-- - I am excited to be an Assistant Teaching Professor at Northeastern University in the San Francisco Bay Area starting Fall 2022! -->
 - Our paper, "[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://arxiv.org/abs/2202.09527)" was accepted to CSCW 2022!
