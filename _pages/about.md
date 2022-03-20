@@ -8,7 +8,7 @@ redirect_from:
   - about.html
 ---
 
-Hi! I am a PhD student in computer science at NYU Tandon with a passion for teaching, and my advisor is Professor [Damon McCoy](http://damonmccoy.com). 
+Hi! I am a final-semester PhD student in computer science at NYU Tandon with a passion for teaching, and my advisor is Professor [Damon McCoy](http://damonmccoy.com). 
 My pronouns are she/her. 
 My main research interests are cybersecurity, ethics, and social bias in machine learning! Lately I have been focusing on online harassment. 
 I strongly believe that the most efficient path to ethical tech is to have computer/data scientists who reflect the population that their products are designed to affect. 
