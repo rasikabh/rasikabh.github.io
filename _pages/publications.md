@@ -11,9 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
-**Rasika Bhalerao**, Nora McDonald, Hanna Barakat, Vaughn Hamilton, Damon McCoy\*, and Elissa Redmiles\*,
+**Rasika Bhalerao**, Nora McDonald, Hanna Barakat, Vaughn Hamilton, Damon McCoy\*, and Elissa M. Redmiles\*,
 "[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://arxiv.org/abs/2202.09527)," Proceedings of the ACM Conference on
 Computer-Supported Cooperative Work and Social Computing **(CSCW 2022)**
+
+**Rasika Bhalerao**, Damon McCoy, "Libel Inc: An Analysis of the Libel Site Ecosystem," IEEE European Symposium on Security and Privacy Workshop on Attackers and Cyber-Crime Operations **(WACCO 2022)**
+
+<b>Rasika Bhalerao\*</b>, Vaughn Hamilton\*, Allison McDonald\*, Elissa M. Redmiles\*, Angelika Strohmayer\*, "Ethical Practices for Security Research with At-Risk Populations," IEEE European Symposium on Security and Privacy International Workshop on Ethics in Computer Security **(EthiCS 2022)**
+
+**PhD Dissertation**, "Analyzing Harms of Online Platform and Policy Design," New York University Tandon School of Engineering, Advised by Damon McCoy, PhD. 2022. [(Dissertation)](https://drive.google.com/file/d/1-AB9afFe662hFIe0JXrsHI-tNoIMiNrA/view?usp=sharing) [(Defense Slides)](https://drive.google.com/file/d/1_l8-v1fDbGzs7p_nfRS-3rH4gwv1EGs2/view?usp=sharing)
 
 **Rasika Bhalerao**, Mohammad Al-Rubaie, Anand Bhaskar, Igor Markov, "[Data-Driven Mitigation of
 Adversarial Text Perturbation](https://arxiv.org/abs/2202.09483)," The AAAI-22 Workshop on Artificial Intelligence for Cyber Security **(AICS
