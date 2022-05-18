@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rasika Bhalerao"
+title                    : "Rasika Bhalerao, Ph.D."
 title_separator          : "-"
-name                     : &name "Rasika Bhalerao"
-description              : &description "I am a PhD student in computer science at NYU working with Professor Damon McCoy. I am interested in cybercrime, natural language processing, machine learning, and teaching. She/her."
-url                      : https://rasikabh.github.io/
+name                     : &name "Rasika Bhalerao, Ph.D."
+description              : &description "I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences. She/her."
+url                      : https://rasikabh.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rasikabh/rasikabh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rasika Bhalerao"
+  name             : "Rasika Bhalerao, Ph.D."
   avatar           : "Bhalerao2021.jpeg"
   bio              : "PhD student in computer science at NYU working with Professor Damon McCoy. Interested in cybercrime, natural language processing, machine learning, and teaching. She/her"
   location         : "rasikabh @ gmail.com"
