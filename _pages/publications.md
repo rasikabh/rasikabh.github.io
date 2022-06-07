@@ -15,7 +15,7 @@ author_profile: true
 "[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://arxiv.org/abs/2202.09527)," Proceedings of the ACM Conference on
 Computer-Supported Cooperative Work and Social Computing **(CSCW 2022)**
 
-**Rasika Bhalerao**, Damon McCoy, "Libel Inc: An Analysis of the Libel Site Ecosystem," IEEE European Symposium on Security and Privacy Workshop on Attackers and Cyber-Crime Operations **(WACCO 2022)**
+**Rasika Bhalerao**, Damon McCoy, "Libel Inc: An Analysis of the Libel Site Ecosystem," IEEE European Symposium on Security and Privacy Workshop on Attackers and Cyber-Crime Operations **(WACCO 2022)** [(Slides)](https://docs.google.com/presentation/d/1n5Fcw9ISfgFlQDkyCCx4ljL7QIPYLIIC7G7CX6FpZuE/edit?usp=drivesdk)
 
 <b>Rasika Bhalerao\*</b>, Vaughn Hamilton\*, Allison McDonald\*, Elissa M. Redmiles\*, Angelika Strohmayer\*, "Ethical Practices for Security Research with At-Risk Populations," IEEE European Symposium on Security and Privacy International Workshop on Ethics in Computer Security **(EthiCS 2022)**
 
