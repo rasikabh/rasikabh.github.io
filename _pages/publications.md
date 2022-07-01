@@ -19,7 +19,7 @@ Computer-Supported Cooperative Work and Social Computing **(CSCW 2022)**
 
 <b>Rasika Bhalerao\*</b>, Vaughn Hamilton\*, Allison McDonald\*, Elissa M. Redmiles\*, Angelika Strohmayer\*, "[Ethical Practices for Security Research with At-Risk Populations](https://elissaredmiles.com/research/ethics_2022.pdf)," IEEE European Symposium on Security and Privacy International Workshop on Ethics in Computer Security **(EthiCS 2022)** **(Best paper award)** [(Slides)](https://docs.google.com/presentation/d/10hddEUQEcMnr824fuoNDQtMKbf-rf0Bll2PJpayDH7o/edit?usp=drivesdk) [(IEEE page)](https://www.computer.org/csdl/proceedings-article/euros&pw/2022/956000a546/1EygClQT9D2)
 
-**PhD Dissertation**, "Analyzing Harms of Online Platform and Policy Design," New York University Tandon School of Engineering, Advised by Damon McCoy, PhD. 2022. [(Dissertation)](https://drive.google.com/file/d/1-AB9afFe662hFIe0JXrsHI-tNoIMiNrA/view?usp=sharing) [(Defense Slides)](https://drive.google.com/file/d/1_l8-v1fDbGzs7p_nfRS-3rH4gwv1EGs2/view?usp=sharing)
+**PhD Dissertation**, "Analyzing Harms of Online Platform and Policy Design," New York University Tandon School of Engineering, Advised by Damon McCoy, PhD. 2022. [(Dissertation)](https://www.proquest.com/docview/2670010306/2F77700E19FF4509PQ/2) [(Defense Slides)](https://drive.google.com/file/d/1_l8-v1fDbGzs7p_nfRS-3rH4gwv1EGs2/view?usp=sharing)
 
 **Rasika Bhalerao**, Mohammad Al-Rubaie, Anand Bhaskar, Igor Markov, "[Data-Driven Mitigation of
 Adversarial Text Perturbation](https://arxiv.org/abs/2202.09483)," The AAAI-22 Workshop on Artificial Intelligence for Cyber Security **(AICS
