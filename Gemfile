@@ -25,4 +25,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "nokogiri", ">= 1.13.6"
+  gem "tzinfo", ">= 1.2.10"
 end
