@@ -18,7 +18,7 @@ I am learning Spanish and Mandarin, and would love to practice with you!
 
 <img src="/images/Bhalerao2021.jpeg" width="200">
 
-## Announcements
+## News
 
 - Our paper "[Ethical Practices for Security Research with At-Risk Populations](https://elissaredmiles.com/research/ethics_2022.pdf)" won the best paper award at the EthiCS 2022 workshop!
 - I am excited to be an Assistant Teaching Professor at Northeastern University in the San Francisco Bay Area starting Fall 2022!
