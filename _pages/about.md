@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences in the San Francisco Bay Area campuses! I received my PhD in computer science from NYU Tandon in 2022 under my advisor [Damon McCoy](http://damonmccoy.com). 
 My pronouns are she/her. 
-My main research interests are cybersecurity, ethics, and social bias in machine learning. 
+My main research interests are cybersecurity, ethics, social bias in machine learning, and teaching ethical computing. 
 I strongly believe that the most efficient path to ethical tech is to have computer/data scientists who reflect the population that their products are designed to affect. 
 Please feel free to reach out to me to talk about teaching, ethical computing, or online harassment! 
 
