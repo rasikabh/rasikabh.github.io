@@ -13,7 +13,7 @@ author_profile: true
 
 **Rasika Bhalerao**, Nora McDonald, Hanna Barakat, Vaughn Hamilton, Damon McCoy\*, and Elissa M. Redmiles\*,
 "[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://dl.acm.org/doi/abs/10.1145/3555083)," Proceedings of the ACM Conference on
-Computer-Supported Cooperative Work and Social Computing **(CSCW 2022)**. **Recognition for contribution to Diversity and Inclusion** [Arxiv preprint]((https://arxiv.org/abs/2202.09527))
+Computer-Supported Cooperative Work and Social Computing **(CSCW 2022)**. **Recognition for contribution to Diversity and Inclusion** [Arxiv preprint available]((https://arxiv.org/abs/2202.09527))
 
 **Rasika Bhalerao** and Damon McCoy,
 "An Analysis of Terms of Service and Official Policies with Respect to Sex Work," IEEE International Symposium on Technology and Society 2022 **(ISTAS 2022)**
