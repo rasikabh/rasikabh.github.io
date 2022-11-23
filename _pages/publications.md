@@ -13,10 +13,10 @@ author_profile: true
 
 **Rasika Bhalerao**, Nora McDonald, Hanna Barakat, Vaughn Hamilton, Damon McCoy\*, and Elissa M. Redmiles\*,
 "[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://dl.acm.org/doi/abs/10.1145/3555083)," Proceedings of the ACM Conference on
-Computer-Supported Cooperative Work and Social Computing **(CSCW 2022)**. **Recognition for contribution to Diversity and Inclusion** [Arxiv preprint available]((https://arxiv.org/abs/2202.09527))
+Computer-Supported Cooperative Work and Social Computing **(CSCW 2022)**. [Presentation](https://www.youtube.com/watch?v=vYbHjA8LgWc) **Recognition for contribution to Diversity and Inclusion** [Arxiv preprint available](https://arxiv.org/abs/2202.09527)
 
 **Rasika Bhalerao** and Damon McCoy,
-"An Analysis of Terms of Service and Official Policies with Respect to Sex Work," IEEE International Symposium on Technology and Society 2022 **(ISTAS 2022)**
+"[An Analysis of Terms of Service and Official Policies with Respect to Sex Work](https://drive.google.com/file/d/1JV_0ALmFSrrhISKcWs3LivvcG_ADiYnR/view?usp=sharing)," IEEE International Symposium on Technology and Society 2022 **(ISTAS 2022)** [Slides](https://drive.google.com/file/d/1sx2Lo0d7v_ovXqtpIShW7QJP70uqTAM4/view?usp=sharing)
 
 **Rasika Bhalerao**, Damon McCoy, "[Libel Inc: An Analysis of the Libel Site Ecosystem](https://drive.google.com/file/d/1aYwyTyfUsRlp3vVyB-RAkb-fzexexIk5/view?usp=sharing)," IEEE European Symposium on Security and Privacy Workshop on Attackers and Cyber-Crime Operations **(WACCO 2022)** [(Slides)](https://docs.google.com/presentation/d/1n5Fcw9ISfgFlQDkyCCx4ljL7QIPYLIIC7G7CX6FpZuE/edit?usp=drivesdk) [(IEEE page)](https://www.computer.org/csdl/proceedings-article/euros&pw/2022/956000a129/1EygzEFr8L6) [(Open reviews)](https://github.com/wacco-workshop/WACCO/blob/main/WACCO-2022/%5B6352%5D%20Libel%20Inc_%20An%20Analysis%20of%20the%20Libel%20Site%20Ecosystem_.pdf)
 
