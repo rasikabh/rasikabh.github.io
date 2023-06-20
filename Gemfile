@@ -24,6 +24,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  gem "nokogiri", ">= 1.13.6"
+  gem "nokogiri", ">= 1.10.5"
   gem "tzinfo", ">= 1.2.10"
 end
