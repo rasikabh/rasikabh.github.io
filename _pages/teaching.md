@@ -14,7 +14,8 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 ### Assistant Teaching Professor at Northeastern University Khoury College of Computer Sciences
-#### Intensive Foundations of Computer Science [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022
+#### Fundamentals of Computer Science I (Undergrad) | Fall 2023
+#### Intensive Foundations of Computer Science [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Fall 2023
 #### Object-oriented Design [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Spring 2023, Summer 2023
 #### Labs for Fundamentals of Computer Science I and II (Undergrad) | Fall 2022, Spring 2023
 #### Grad Natural Language Processing | [Fall 2023](https://rasikabh.github.io/nlp2023/)
