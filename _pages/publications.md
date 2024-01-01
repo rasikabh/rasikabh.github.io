@@ -15,7 +15,7 @@ Rosanna Bellini, Kevin Lee, Megan A. Brown, Jeremy Shaffer, **Rasika Bhalerao**,
 "[The Digital-Safety Risks of Financial Technologies for Survivors of Intimate Partner Violence](https://www.rosiebellini.com/digital-safety/)," 32nd USENIX Security Symposium **(Usenix 2023)**
 
 
-Tomasz Korbak, Kejian Shi, Angelica Chen, **Rasika Bhalerao**, Christopher Buckley, Jason Phang, Samuel Bowman, and Ethan Perez, "[Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582)," The Fortieth International Conference on Machine Learning **(ICML 2023)**
+Tomasz Korbak, Kejian Shi, Angelica Chen, **Rasika Bhalerao**, Christopher Buckley, Jason Phang, Samuel Bowman, and Ethan Perez, "[Pretraining Language Models with Human Preferences](https://proceedings.mlr.press/v202/korbak23a.html)," The Fortieth International Conference on Machine Learning **(ICML 2023)**. [(Preprint)](https://arxiv.org/abs/2302.08582)
 
 **Rasika Bhalerao**, Nora McDonald, Hanna Barakat, Vaughn Hamilton, Damon McCoy\*, and Elissa M. Redmiles\*,
 "[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://dl.acm.org/doi/abs/10.1145/3555083)," Proceedings of the ACM Conference on
