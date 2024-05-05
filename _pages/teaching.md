@@ -20,7 +20,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 #### Object-oriented Design [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Spring 2023, Summer 2023, Spring 2024
 #### Labs for Fundamentals of Computer Science I and II (Undergrad) | Fall 2022, Spring 2023
 #### Graduate Natural Language Processing | [Fall 2023](https://rasikabh.github.io/nlp2023/)
-#### Graduate AI | [Summer 2024](https://rasikabh.github.io/ai2024su/)
+#### Graduate Foundations of AI | [Summer 2024](https://rasikabh.github.io/ai2024su/)
 <br/>
 
 ### Lecturer at UC Berkeley School of Information
