@@ -23,5 +23,5 @@ Outside of teaching, I am learning Spanish and Mandarin, and I love to rock clim
 
 ## News
 
+- I am excited to be teaching computer science at the [Mills Educational Talent Search](https://mets.sites.northeastern.edu/) summer program!
 - Check out the latest [Climate Change AI monthly newsletter here](https://www.climatechange.ai/newsletter)!
-- Our paper "[Ethical Practices for Security Research with At-Risk Populations](https://elissaredmiles.com/research/ethics_2022.pdf)" won the best paper award at the EthiCS 2022 workshop!
