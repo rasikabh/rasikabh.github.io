@@ -23,6 +23,10 @@ h2, h3, h4, h5, h6 {margin: 0;}
 #### Graduate Foundations of AI | [Summer 2024](https://rasikabh.github.io/ai2024su/)
 <br/>
 
+### Mills Educational Talent Search
+#### [Computer Science Summer Instructor | Summer 2024](https://mets.sites.northeastern.edu/)
+<br/>
+
 ### Lecturer at UC Berkeley School of Information
 #### [Applied Machine Learning | Fall 2021, Spring 2022, Fall 2022](https://github.com/MIDS-W207/rasikabh/tree/main/live_sessions)
 <br/>

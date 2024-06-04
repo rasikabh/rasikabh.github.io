@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Rasika Bhalerao**, "My Learnings from Allowing Large Language Models in Introductory Computer Science Classes," ACM Technical Symposium on Computer Science Education (SIGCSE 2024)
+**Rasika Bhalerao**, "[My Learnings from Allowing Large Language Models in Introductory Computer Science Classes](https://drive.google.com/file/d/17l5toGaSJ0KjaKqov-FlduO8tX2sg3WN/view?usp=sharing)," ACM Technical Symposium on Computer Science Education **(SIGCSE 2024)**
 
 Rosanna Bellini, Kevin Lee, Megan A. Brown, Jeremy Shaffer, **Rasika Bhalerao**, and Thomas Ristenpart,
 "[The Digital-Safety Risks of Financial Technologies for Survivors of Intimate Partner Violence](https://www.rosiebellini.com/digital-safety/)," 32nd USENIX Security Symposium **(Usenix 2023)**
