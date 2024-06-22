@@ -23,5 +23,6 @@ Outside of teaching, I am learning Spanish and Mandarin, and I love to rock clim
 
 ## News
 
+- Check out my Intro Machine Learning lecture at the [Climate Change AI Summer School 2024](https://www.climatechange.ai/events/summer_school2024)!
 - I am excited to be teaching computer science at the [Mills Educational Talent Search](https://mets.sites.northeastern.edu/) summer program!
 - Check out the latest [Climate Change AI monthly newsletter here](https://www.climatechange.ai/newsletter)!
