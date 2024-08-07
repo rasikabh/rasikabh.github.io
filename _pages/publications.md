@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+Kejsi Take, Jordyn Young, **Rasika Bhalerao**, Kevin Gallagher, Andrea Forte, Damon McCoy, and Rachel Greenstadt,
+"[What to Expect When You’re Accessing: An Exploration of User Privacy Rights in People Search Websites](https://doi.org/10.56553/popets-2024-0118)," Proceedings on Privacy Enhancing Technologies Symposium **(PoPETS 2024)**
+
 **Rasika Bhalerao**, "[My Learnings from Allowing Large Language Models in Introductory Computer Science Classes](https://drive.google.com/file/d/17l5toGaSJ0KjaKqov-FlduO8tX2sg3WN/view?usp=sharing)," ACM Technical Symposium on Computer Science Education **(SIGCSE 2024)**
 
 Rosanna Bellini, Kevin Lee, Megan A. Brown, Jeremy Shaffer, **Rasika Bhalerao**, and Thomas Ristenpart,
