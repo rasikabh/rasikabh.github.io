@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+**Rasika Bhalerao**,
+"[Model AI Assignment: Spelling Fixer](http://modelai.gettysburg.edu/2025/spelling/)," 15th Symposium on Educational Advances in Artificial Intelligence **(EAAI 2025)**. [(Assignment)](http://modelai.gettysburg.edu/2025/spelling/) [(Slides)](https://docs.google.com/presentation/d/1dHQ_wnByaDZ3-PkGpyEWdoAQ4O7F7V5JruOeSiKQGFw/edit?usp=sharing)
+
 Kejsi Take, Jordyn Young, **Rasika Bhalerao**, Kevin Gallagher, Andrea Forte, Damon McCoy, and Rachel Greenstadt,
 "[What to Expect When You’re Accessing: An Exploration of User Privacy Rights in People Search Websites](https://doi.org/10.56553/popets-2024-0118)," Proceedings on Privacy Enhancing Technologies Symposium **(PoPETS 2024)**.
 
