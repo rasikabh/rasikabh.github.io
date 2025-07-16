@@ -15,7 +15,8 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ### Assistant Teaching Professor at Northeastern University Khoury College of Computer Sciences
 #### Fundamentals of Computer Science I (Undergrad) | Fall 2023, Fall 2024
-#### Fundamentals of Computer Science II (undergrad) | Spring 2024
+#### Fundamentals of Computer Science II (undergrad) | Spring 2024, Spring 2025
+#### Object-Oriented Design (undergrad) | Summer 2025
 #### Intensive Foundations of Computer Science [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Fall 2023
 #### Object-oriented Design [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Spring 2023, Summer 2023, Spring 2024
 #### Labs for Fundamentals of Computer Science I and II (Undergrad) | Fall 2022, Spring 2023
@@ -24,7 +25,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>
 
 ### Mills Educational Talent Search
-#### [Computer Science Summer Instructor | Summer 2024](https://mets.sites.northeastern.edu/)
+#### [Computer Science Summer Instructor | Summer 2024, Summer 2025](https://mets.sites.northeastern.edu/)
 <br/>
 
 ### Lecturer at UC Berkeley School of Information
