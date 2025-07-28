@@ -14,6 +14,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 ### Assistant Teaching Professor at Northeastern University Khoury College of Computer Sciences
+#### Program Design and Implementation (Undergrad) | [Fall 2025](https://neu-pdi.github.io/cs2100-public-resources)
 #### Fundamentals of Computer Science I (Undergrad) | Fall 2023, Fall 2024
 #### Fundamentals of Computer Science II (undergrad) | Spring 2024, Spring 2025
 #### Object-Oriented Design (undergrad) | Summer 2025
