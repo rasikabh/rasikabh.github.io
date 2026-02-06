@@ -1,5 +1,5 @@
 ---
 layout: forward
-target: https://docs.google.com/document/d/1-eoGbQ-k1fuBISlHuJWeCNTK9I2PtpAfS2L7l-gFfTQ/edit?usp=sharing
+target: https://docs.google.com/document/d/11ty1y2Wx5y6HwsD-GZQYKvY2Wpw1CTtaqKaqBXjiDgQ/edit?usp=sharing
 permalink: TATraining/
 ---
