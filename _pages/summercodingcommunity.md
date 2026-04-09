@@ -37,6 +37,8 @@ Example project areas include promoting animal welfare, working with local gover
 
 [Apply here: https://forms.gle/XeS1iWBu3xfJDVf68](https://forms.gle/XeS1iWBu3xfJDVf68)
 
+This program is free to attend.
+
 Student eligibility requirements:
 - Participants must be rising high school juniors or seniors.
 - Participants must be able to join us in-person on the Northeastern University Oakland campus at 5000 MacArthur Blvd., Oakland, CA 94613
