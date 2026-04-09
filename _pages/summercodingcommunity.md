@@ -38,19 +38,19 @@ Example project areas include promoting animal welfare, working with local gover
 
 This program is free to attend.
 
-Student eligibility requirements:
+### Student eligibility requirements:
 - Participants must be rising high school juniors or seniors.
 - Participants must be able to join us in-person on the Northeastern University Oakland campus at 5000 MacArthur Blvd., Oakland, CA 94613
 - Participants must join us from 9:30am to 2pm, Mondays through Thursdays, June 22 to July 16 (except with permission).
 - Participants must be interested in helping their community in some way.
 
-Not requirements:
+### Not requirements:
 - Participants are not required to have prior computer science experience.
 - Participants are not required to have their own laptops. (We will have some available to borrow.)
 
 Applications will be reviewed on a rolling basis starting on Monday, April 13.
 
-Questions about this program can be directed to Rasika Bhalerao at r.bhalerao@northeastern.edu.
+Questions about this program can be directed to Rasika Bhalerao at [r.bhalerao@northeastern.edu](mailto:r.bhalerao@northeastern.edu).
 
 ## Tentative schedule (subject to change)
 
