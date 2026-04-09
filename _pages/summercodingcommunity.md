@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Coding for our Community Summer Program"
