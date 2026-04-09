@@ -23,4 +23,4 @@ Outside of teaching, I am learning Spanish and Mandarin, and I love to rock clim
 
 ## News
 
-- Rising high school juniors and seniors: apply to be a part of the [Coding for our Community summer program](https://rasikabh.github.io/coding_for_our_community/)!
+- Rising high school juniors and seniors: apply to be a part of the [Coding for our Community summer program](https://rasikabh.github.io/summercodingcommunity/)!
