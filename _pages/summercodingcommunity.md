@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: "Coding for our Community Summer Program"
-permalink: coding_for_our_community/
+permalink: summercodingcommunity/
 author_profile: false
 
 ---
