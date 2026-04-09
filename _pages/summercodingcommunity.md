@@ -65,8 +65,9 @@ Approximate daily schedule:
 
 | | |
 |-|-|
-| 9:30 - 10am | Project check-in |
-| 10am - 11am | New topic |
-| 11am - 12pm | Lunch |
-| 12pm - 1pm | Reading and discussion |
-| 1pm - 2pm | Project work time |
+| 9:30 - 10:00 | Project check-in |
+| 10:00 - 11:30 | New topic |
+| 11:30 - 12:30 | Lunch |
+| 12:30 - 1:00 | Reading and discussion |
+| 1:00 - 1:50 | Project work time |
+| 1:50 - 2:00 | Wrap-up |
