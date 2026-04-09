@@ -27,7 +27,7 @@ Summer 2026
 
 [Apply here: https://forms.gle/XeS1iWBu3xfJDVf68](https://forms.gle/XeS1iWBu3xfJDVf68)
 
-## Description
+## Our goal
 
 Our goal is to work with a small number of community-minded students to build projects that address issues in their communities. Each student participant will bring their own passion and expertise, and we will work together to figure out how computer science can be used to help address an issue in their area.
 
