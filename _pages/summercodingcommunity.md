@@ -50,7 +50,7 @@ This program is free to attend.
 - Participants are not required to have prior computer science experience.
 - Participants are not required to have their own laptops. (We will have some available to borrow.)
 
-Applications will be reviewed on a rolling basis starting on Monday, April 13.
+Applications will be reviewed on a rolling basis starting on Monday, April 20.
 
 Questions about this program can be directed to Rasika Bhalerao at [r.bhalerao@northeastern.edu](mailto:r.bhalerao@northeastern.edu).
 
