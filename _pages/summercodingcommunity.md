@@ -32,6 +32,8 @@ Our goal is to work with a small number of community-minded students to build pr
 
 Example project areas include promoting animal welfare, working with local government, improving K-12 education, or building tools for local small businesses. Student participants are not required to have prior computer science experience, but they are expected to bring passion for a community issue.
 
+The program is free to attend. Participants will also receive a letter of recommendation written by Professor Rasika Bhalerao, to be sent to Northeastern University and two other universities of the student's choice.
+
 ## Application and eligibility
 
 [Apply here: https://forms.gle/XeS1iWBu3xfJDVf68](https://forms.gle/XeS1iWBu3xfJDVf68)
