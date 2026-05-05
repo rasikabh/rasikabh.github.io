@@ -38,7 +38,7 @@ The program is free to attend. Participants will also receive a letter of recomm
 
 [Apply here: https://forms.gle/XeS1iWBu3xfJDVf68](https://forms.gle/XeS1iWBu3xfJDVf68)
 
-This program is free to attend.
+This program is free to attend. Lunch will be provided.
 
 ### Student eligibility requirements:
 - Participants must be rising high school juniors or seniors.
