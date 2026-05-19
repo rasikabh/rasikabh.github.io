@@ -18,7 +18,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ## A Northeastern University Oakland summer program for rising 11th and 12th grade students
 
-Northeastern University Khoury College of Computer Sciences
+[Northeastern University Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/locations/oakland/)
 
 June 22 - July 16, Mondays - Thursdays, 9:30am - 2pm
 
