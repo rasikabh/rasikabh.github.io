@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences in Oakland! I received my PhD in computer science from NYU Tandon in 2022 under my advisor [Damon McCoy](http://damonmccoy.com). 
+Hi! I am an Associate Teaching Professor at the Northeastern University Khoury College of Computer Sciences in Oakland! I received my PhD in computer science from NYU Tandon in 2022 under my advisor [Damon McCoy](http://damonmccoy.com). 
 My pronouns are she/her.
 
 At Northeastern, my areas of teaching include introductory courses (Fundamentals of Computer Science and the Align program), artificial intelligence, natural language processing, and ethical computing.
