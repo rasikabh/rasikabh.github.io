@@ -60,7 +60,7 @@ Questions about this program can be directed to Rasika Bhalerao at [r.bhalerao@n
 | - | - | - | - | - |
 | Week 1 | June 22<br />Introductions, Participatory design | June 23<br />GitHub, Building websites | June 24<br />Using APIs | June 25<br />Building apps |
 | Week 2 | June 29<br />Going to college | June 30<br />Building and using AI | July 1<br />Data privacy | July 2<br />Tech ethics |
-| Week 3 | July 6<br />Modeling physical systems (afternoon with Prof. Miguel Fuentes) | July 7<br />Project work time | July 8<br />Project work time | July 9<br />Project work time |
+| Week 3 | July 6<br />Modeling physical systems + games (afternoon with Prof. Miguel Fuentes) | July 7<br />Project work time | July 8<br />Project work time | July 9<br />Project work time |
 | Week 4 | July 13<br />Project work time | July 14<br />Project work time | July 15<br />Project work time | July 16<br />Showcase|
 
 Approximate daily schedule:
