@@ -58,9 +58,9 @@ Questions about this program can be directed to Rasika Bhalerao at [r.bhalerao@n
 
 |  | Monday | Tuesday | Wednesday | Thursday |
 | - | - | - | - | - |
-| Week 1 | June 22<br />Introductions | June 23<br />Building websites | June 24<br />Building websites | June 25<br />Using APIs |
-| Week 2 | June 29<br />Building and using AI | June 30<br />Building and using AI | July 1<br />Social media and privacy | July 2<br />Tech ethics |
-| Week 3 | July 6<br />Tech ethics | July 7<br />Project work time | July 8<br />Project work time | July 9<br />Project work time |
+| Week 1 | June 22<br />Introductions, Participatory design | June 23<br />GitHub, Building websites | June 24<br />Building apps | June 25<br />Using APIs |
+| Week 2 | June 29<br />Going to college | June 30<br />Building games | July 1<br />Building and using AI | July 2<br />Data privacy |
+| Week 3 | July 6<br />Tech ethics | July 7<br />Modeling physical systems | July 8<br />Project work time | July 9<br />Project work time |
 | Week 4 | July 13<br />Project work time | July 14<br />Project work time | July 15<br />Project work time | July 16<br />Showcase|
 
 Approximate daily schedule:
@@ -69,7 +69,7 @@ Approximate daily schedule:
 |-|-|
 | 9:30 - 10:00 | Project check-in |
 | 10:00 - 11:30 | New topic |
-| 11:30 - 12:30 | Lunch |
-| 12:30 - 1:00 | Reading and discussion |
+| 11:30 - 12:15 | Lunch |
+| 12:15 - 1:00 | Reading and discussion |
 | 1:00 - 1:50 | Project work time |
 | 1:50 - 2:00 | Wrap-up |
