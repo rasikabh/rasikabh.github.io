@@ -14,14 +14,14 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 ### Assistant / Associate Teaching Professor at Northeastern University Khoury College of Computer Sciences
-#### Program Design and Implementation (Undergrad) | [Fall 2025](https://neu-pdi.github.io/cs2100-public-resources)
+#### Program Design and Implementation I (Undergrad) | [Fall 2025, Fall 2026](https://neu-pdi.github.io/cs2100-public-resources)
 #### Fundamentals of Computer Science I (Undergrad) | Fall 2023, Fall 2024
 #### Fundamentals of Computer Science II (undergrad) | Spring 2024, Spring 2025
 #### Object-Oriented Design (undergrad) | Summer 2025
 #### Intensive Foundations of Computer Science [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Fall 2023
 #### Object-oriented Design [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Spring 2023, Summer 2023, Spring 2024
 #### Labs for Fundamentals of Computer Science I and II (Undergrad) | Fall 2022, Spring 2023
-#### Graduate Natural Language Processing | [Fall 2023](https://rasikabh.github.io/nlp2023/)
+#### Graduate Natural Language Processing | [Fall 2023](https://rasikabh.github.io/nlp2023/), [Fall 2026](https://rasikabh.github.io/nlp2026/)
 #### Graduate Foundations of AI | [Summer 2024](https://rasikabh.github.io/ai2024su/), [Fall 2024](https://rasikabh.github.io/ai2024f/)
 <br/>
 
